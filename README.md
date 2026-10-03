@@ -16,3 +16,7 @@ Welcome to my academic portfolio for [IPC146NCC]!
 
 ## Projects
 *This section will be updated as I complete assignments*
+
+## Featured Projects
+
+This section will showcase my best projects and assignments from this course.
